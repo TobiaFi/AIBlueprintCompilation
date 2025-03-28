@@ -1,0 +1,10 @@
+{
+  "id": "AIBlueprintCompilation",
+  "name": "AI Blueprint Compilation",
+  "author": "LizardToby",
+  "version": 1.0,
+  "description": "Makes it so Domain-era survey probes, ships, motherships, and Remnant nexuses, will drop blueprints for their respective ships.",
+  "gameVersion": "0.98a",
+  "jars": [ "jars/AIBlueprintCompilation.jar" ],
+  "modPlugin": "data.scripts.ABC_ModPlugin"
+}
